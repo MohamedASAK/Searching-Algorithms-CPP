@@ -1,0 +1,6 @@
+﻿  Searching Algorithms.cpp
+C:\Users\moham\source\repos\Searching Algorithms\Searching Algorithms.cpp(188,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\moham\source\repos\Searching Algorithms\Searching Algorithms.cpp(195,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\moham\source\repos\Searching Algorithms\Searching Algorithms.cpp(245,31): warning C4101: 's': unreferenced local variable
+C:\Users\moham\source\repos\Searching Algorithms\Searching Algorithms.cpp(209,1): warning C4715: 'jumpSearch': not all control paths return a value
+  Searching Algorithms.vcxproj -> C:\Users\moham\source\repos\Searching Algorithms\x64\Debug\Searching Algorithms.exe
